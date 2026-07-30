@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace MedicineSocialEpidemiologyLemmaCanonicalLaneLean
+
+-- Root file for the Medicine Social Epidemiology Lemma canonical lane package.
+
+end MedicineSocialEpidemiologyLemmaCanonicalLaneLean
+end HautevilleHouse
